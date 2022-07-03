@@ -1,0 +1,21 @@
+Print : print
+Variable : int, float, string, boolean
+Condition && Loop : if, elif, else, while, for
+Type Casting : int(), float(), str()
+Number Functions : sqrt(), max(), abs(), min(), pow(), round(), floor(), ceil(), var.center(),
+String Method : upper(), lower(), find(), capitalize(), isdigit(), isalpha(), 
+Get Value : input()
+slinc() : [ start : stop : step ]
+time libaray : time.sleep()
+break, continoue, pass,
+List : insert(), pop(), append(), sort(), clear(), remove(), name[pos]
+2D List : var[pos1][pos2]
+Tuple : index(), count(), cretae Tuple - var = (v1,v2)
+Set : value = {v1,v2,v3}
+
+
+
+List : value = [v1,v2,v3]
+Tuple : value = (v1,v2,v3)
+set : value = {v1,v2,v3}   -- no duplicated value
+dictionary : get(), keys()
